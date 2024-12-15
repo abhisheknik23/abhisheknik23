@@ -28,6 +28,11 @@ Passionate Lead iOS Developer | Mobile App Specialist
 - 🚀 Associates can use this app to get any information of their association with TeamLease Services Ltd. Clients can use this app to get any information of their Association with TeamLease Services Ltd.
 - 🛠️ Tech Stack: Objective-C, MVC, Push notification APNS
 
+## 📬 Get in Touch
+- 💼 [https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/abhishek-gupta-073a2823)
+- 📧 abhishek.iosdev42@gmail.com
+- 🌐 https://github.com/abhisheknik23
+
 <!--
 **abhisheknik23/abhisheknik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
