@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey Guys 👋
+
+This is Abhishek,
+
+I am a experienced Senior iOS Developer with over 12 plus years of expertise in designing and building high- performance mobile applications. Proficient in Swift, SwiftUI, and Objective-C, with a deep under- standing of iOS frameworks and app architecture. Known for delivering innovative, scalable, and user-centric solutions while maintaining high-quality standards. Proven ability to lead development teams, optimise performance, and integrate cutting-edge technologies to enhance functionality. Strong commitment to delivering high-quality apps that exceed user and business expectations while staying ahead of industry trends.
 
 <!--
 **abhisheknik23/abhisheknik23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
