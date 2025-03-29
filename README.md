@@ -2,8 +2,8 @@
 Passionate Lead iOS Developer | Mobile App Specialist 
 
 ## About Me
-- 👨‍💻 I am a experienced Senior iOS Developer with over 12 plus years of expertise in designing and building high performance mobile applications.
-- 🚀 Proficient in Swift, SwiftUI, and Objective-C programming language. Specialized in GPS and location-based service applications.
+- 👨‍💻 I am an experienced Senior iOS Developer with over 12 plus years of expertise in designing and building high performance mobile applications.
+- 🚀 Proficient in Swift, SwiftUI, and Objective-C programming language. Specialized in HealthCare, Banking, Fintech and Ecomorce domains.
 - 💡 Always exploring new technologies like SwiftUI, Combine, React Native and Flutter.
   
 ## 🔧 Skills
