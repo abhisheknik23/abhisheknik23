@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Abhishek
-Passionate Lead iOS Developer | Mobile App Specialist 
+Passionate Senior iOS Developer | Mobile App Specialist 
 
 ## About Me
 - 👨‍💻 I am an experienced Senior iOS Developer with over 12 plus years of expertise in designing and building high performance mobile applications.
@@ -18,7 +18,7 @@ Passionate Lead iOS Developer | Mobile App Specialist
 
 ### Play Cricket, https://apps.apple.com/au/app/playcricket/id446007847
 - 🚀 Meet the PlayCricket App by Cricket Australia - the official home of Australian Grassroots Cricket.
-- 🛠️ Tech stack: Swift, UIKit and Firebase.
+- 🛠️ Tech stack: Swift, UIKit and Firebase, MVVM.
 
 ### OTT Application for idea & Vodafone cellular, https://apps.apple.com/in/app/vi-movies-tv-ott-live-news/id1099427256
 - 🚀 Watch latest Movies, popular & recently launched Original Web Series, new TV Shows & Live TV on Vi Movies and TV. Enjoy your favorite international and regional content online on Vi Movies and TV.
