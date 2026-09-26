@@ -29,7 +29,6 @@ Passionate Senior iOS Developer | Mobile App Specialist
 - 🛠️ Tech Stack: Objective-C, MVC, Push notification APNS
 
 ## 📬 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-073a2823)
 - 📧 abhishek.iosdev42@gmail.com
 - 🌐 https://github.com/abhisheknik23
 
